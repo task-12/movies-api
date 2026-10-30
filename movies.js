@@ -1,0 +1,14 @@
+module.exports = [
+  { id: 1, title: "The Shawshank Redemption", year: 1994, genre: "Drama", rating: 9.3, director: "Frank Darabont", description: "رجل بريء يقضي سنين في السجن ويحافظ على أمله.", poster: "https://placehold.co/300x450?text=Shawshank" },
+  { id: 2, title: "The Godfather", year: 1972, genre: "Crime", rating: 9.2, director: "Francis Ford Coppola", description: "قصة عائلة مافيا قوية وصراع على الزعامة.", poster: "https://placehold.co/300x450?text=Godfather" },
+  { id: 3, title: "The Dark Knight", year: 2008, genre: "Action", rating: 9.0, director: "Christopher Nolan", description: "باتمان يواجه الجوكر في مدينة جوثام.", poster: "https://placehold.co/300x450?text=Dark+Knight" },
+  { id: 4, title: "Inception", year: 2010, genre: "Sci-Fi", rating: 8.8, director: "Christopher Nolan", description: "لص يسرق الأسرار من جوه الأحلام.", poster: "https://placehold.co/300x450?text=Inception" },
+  { id: 5, title: "Interstellar", year: 2014, genre: "Sci-Fi", rating: 8.7, director: "Christopher Nolan", description: "رحلة في الفضاء لإنقاذ البشرية.", poster: "https://placehold.co/300x450?text=Interstellar" },
+  { id: 6, title: "Pulp Fiction", year: 1994, genre: "Crime", rating: 8.9, director: "Quentin Tarantino", description: "قصص متداخلة عن مجرمين في لوس أنجلوس.", poster: "https://placehold.co/300x450?text=Pulp+Fiction" },
+  { id: 7, title: "The Matrix", year: 1999, genre: "Sci-Fi", rating: 8.7, director: "Lana Wachowski", description: "مبرمج يكتشف إن العالم كله محاكاة.", poster: "https://placehold.co/300x450?text=Matrix" },
+  { id: 8, title: "Forrest Gump", year: 1994, genre: "Drama", rating: 8.8, director: "Robert Zemeckis", description: "رجل بسيط يعيش أحداث تاريخية كبيرة.", poster: "https://placehold.co/300x450?text=Forrest+Gump" },
+  { id: 9, title: "Gladiator", year: 2000, genre: "Action", rating: 8.5, director: "Ridley Scott", description: "قائد روماني يتحول لمصارع للانتقام.", poster: "https://placehold.co/300x450?text=Gladiator" },
+  { id: 10, title: "Toy Story", year: 1995, genre: "Animation", rating: 8.3, director: "John Lasseter", description: "ألعاب بتتحرك لما صاحبها مش موجود.", poster: "https://placehold.co/300x450?text=Toy+Story" },
+  { id: 11, title: "The Lion King", year: 1994, genre: "Animation", rating: 8.5, director: "Roger Allers", description: "أسد صغير يرجع ياخد مكانه كملك.", poster: "https://placehold.co/300x450?text=Lion+King" },
+  { id: 12, title: "Parasite", year: 2019, genre: "Thriller", rating: 8.5, director: "Bong Joon-ho", description: "عيلة فقيرة بتتسلل لحياة عيلة غنية.", poster: "https://placehold.co/300x450?text=Parasite" },
+];
